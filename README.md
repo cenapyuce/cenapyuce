@@ -2,12 +2,13 @@
 
 ## Bana ulaşmak icin;
 #### 🏠 Bana ulaşmak icin discord Sunucum: Yoğkkk :(
-#### 👨 Discord: cenap#0011 (en sonki ismim deiştirmiş olma ihtimalim %1)
+#### 👨 Discord: cenap#7624 (en sonki ismim deiştirmiş olma ihtimalim %1)
 
 
 ### Projelerim
-## Uptime WebSite (ft. 11washere xd)
+## Uptime WebSite (ft. elevenvac xd)
 ## Dbldeki Morty Yayında olan vs.
+## Discord RPC (Panelli)
 
 #### Bildiğim yazılım dilleri; js, c#, vs.
 
