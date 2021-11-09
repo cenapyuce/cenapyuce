@@ -4,6 +4,8 @@
 #### 🏠 Bana ulaşmak icin discord Sunucum: Yoğkkk :(
 #### 👨 Discord: cenap#7624 (en sonki ismim deiştirmiş olma ihtimalim %1)
 
+<img src="https://lanyard-profile-readme.vercel.app/api/471783967167741964">
+
 
 ### Projelerim
 ## Uptime WebSite (ft. elevenvac xd)
