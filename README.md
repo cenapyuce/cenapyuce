@@ -7,4 +7,4 @@
 
 
 
-###### [Sponsor](https://github.com/sponsors/cenapyuce/button)
+###### [Sponsor](https://github.com/sponsors/cenapyuce)
